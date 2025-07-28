@@ -51,6 +51,7 @@ Typocalypse is a sleek and interactive typing test web platform that helps users
      │   ├── TypingArea.tsx
      │   ├── Timer.tsx
      │   ├── ProgressBar.tsx
+     │   ├── StatsPanel.tsx
      │   └── TestDurationSelector.tsx
      └── utils
          ├── calculations.ts   // WPM, Accuracy, Errors
