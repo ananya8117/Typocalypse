@@ -10,7 +10,7 @@ import { calculateWPM, calculateAccuracy, calculateErrors } from "@/utils/calcul
 import { saveResultToHistory } from "@/utils/storage";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { FaHome, FaTrash } from "react-icons/fa";
+import { FaHome } from "react-icons/fa";
 
 export default function SpeedPage() {
   const [sampleText, setSampleText] = useState("Loading...");
